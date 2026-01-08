@@ -1,0 +1,6 @@
+
+{
+  "name": "RL IMPORTS - Premium Vehicle Store",
+  "description": "A luxury automotive dealership website featuring a high-end inventory, lead capture for financing and sales, and a dedicated admin management portal.",
+  "requestFramePermissions": ["camera"]
+}
