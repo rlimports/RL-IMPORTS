@@ -1,7 +1,7 @@
 
 import React, { useState, useRef } from 'react';
-import { Vehicle, Lead } from '../types';
-import { generateVehicleDescription } from '../RL-IMPORTS/services/geminiService';
+import { Vehicle, Lead } from './types';
+import { generateVehicleDescription } from './services/geminiService';
 
 interface AdminDashboardProps {
   vehicles: Vehicle[];
